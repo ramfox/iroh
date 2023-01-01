@@ -10,7 +10,7 @@ description = "Rust API for Iroh"
 testing = ["dep:mockall"]
 
 [dependencies]
-cid = "0.8.5"
+cid = "0.10.0"
 config = "0.13.1"
 iroh-metrics = { path = "../iroh-metrics", default-features = false, features = ["rpc-grpc"] }
 iroh-resolver = { path = "../iroh-resolver" }

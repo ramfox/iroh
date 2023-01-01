@@ -8,7 +8,7 @@ repository = "https://github.com/n0-computer/iroh"
 description = "Implementation the car files for iroh"
 
 [dependencies]
-cid = "0.8"
+cid = "0.10"
 ipld = { package = "libipld", version = "0.14"}
 ipld-cbor = { package = "libipld-cbor", version = "0.14" }
 thiserror = "1.0"
