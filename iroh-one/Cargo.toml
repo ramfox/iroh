@@ -11,7 +11,7 @@ version = "0.1.0"
 anyhow = "1"
 async-trait = "0.1.56"
 axum = "0.5.1"
-cid = "0.8"
+cid = "0.10"
 clap = {version = "4.0.9", features = ["derive"]}
 config = "0.13.1"
 futures = "0.3.21"
